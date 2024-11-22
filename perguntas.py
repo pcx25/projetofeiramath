@@ -22,7 +22,7 @@ perguntas = [
         "nivel": 1
     },
     {
-        "pergunta": "Nível 1: Um pai tem 5 filhos: Ana, Beto, Carla e Diego. Qual é o nome do quinto filho?",
+        "pergunta": "Nível 1: Um pai tem 5 filhos: Ana, Beto, Carla e Diego. Qual, é o nome do quinto filho?",
         "alternativas": ["Carlos", "João", "Eduardo", "Qual"],
         "resposta": "Qual",
         "explicacao": "O nome do quinto filho está na pergunta: 'Qual'.",
