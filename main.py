@@ -5,7 +5,7 @@ from perguntas import perguntas  # Importando as perguntas
 
 
 def jogo_perguntas():
-    st.set_page_config(page_title="Jogo de Raciocínio Lógico", page_icon="🧠")
+    st.set_page_config(page_title="Jogo de Raciocínio Lógico!", page_icon="🧠")
     st.title("🧠 Jogo de Raciocínio Lógico!")
     st.markdown(
         "<div style='font-size:18px;'>Bem-vindo ao desafio de raciocínio lógico! Teste seus conhecimentos e tente acertar todas as perguntas. 🚀</div>",
