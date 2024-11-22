@@ -105,7 +105,9 @@ def jogo_perguntas():
     st.markdown(
         """
         <div class="creditos" style='font-size: 24px; text-align: center;'>
-            Criado por: Pedro Cardoso, <span style='color: #e74c3c; font-size: 8px;'>Gabriel Francisco, Eduarda Reis, Carlos Augusto, Gustavo Freitas, Miguel Nantes - 3°A</span> 🧠
+            Criado por: Pedro Cardoso e sua equipe: Carlos Augusto, Gustavo Freitas, Eduarda Reis, Gabriel Francisco, Miguel Nantes
+            <span style='font-size: 12px; color: #3498db;'>(no entanto, site desenvolvido apenas por Pedro Cardoso)</span> 🧠
+            <br><span style='font-size: 8px; color: #95a5a6;'>Coloquei o nome do resto da equipe apenas para fazer uma média com eles.</span>
         </div>
         """,
         unsafe_allow_html=True,
